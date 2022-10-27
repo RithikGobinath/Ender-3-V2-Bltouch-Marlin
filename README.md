@@ -25,8 +25,6 @@ To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino
 
 ## Credits
 
-The current Marlin dev team consists of:
-
  - Marlin (@Marlin)
  - Jyers (@Jyers)
  
